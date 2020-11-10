@@ -28,7 +28,7 @@ I tried a few other things too: I added a third layer to the network, I added a 
 
 ![Scores for my best model](ll-dqn-2layer.png?raw=true "Scores for my best model")
 
-I got pretty close to 100%, at 98%. I tried a bunch of different changes (as described for previous questions) but I really was not able to improve on my best run.
+I didn't make it to 100%, at 93%. I tried a bunch of different changes (as described for previous questions) but I really was not able to improve on my best run.
 
 > Based on what you observed, what conclusions can you draw about the different parameters and their values?
 
